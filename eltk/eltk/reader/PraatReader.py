@@ -320,7 +320,7 @@ if __name__=='__main__':
     #pr.setNS('http://purl.org/linguistics/data/igt/')
     
     #set the URI for the ontology that will contain the data
-    pr.setURI(URIRef(pr.namespace+u'igt/gold-2008-examples.owl') 
+    pr.setURI(URIRef(pr.namespace+u'igt/gold-2008-examples.owl'))
 
 
     pr.readPraat(ELTK_HOME+'/examples/inputfiles/praat_test.TextGrid')
