@@ -103,17 +103,8 @@ class SignlistReader(object):
 
 
 if __name__=='__main__':
-
-
+    pass
     #signlist = reader.read(ELTK_HOME+'/examples/inputfiles/signlist.csv')
-
     #print type(signlist.termset)
-
     #mygraph = signlist.buildRDFGraph(u'http://purl.org/linguistics/data/signlist.rdf')
-    
     #mygraph.serialize(ELTK_HOME+'/examples/outputfiles/signlist.rdf')
-
-   
-
-
-
